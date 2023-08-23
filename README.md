@@ -8,6 +8,6 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nazlicanterliksiz/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nazl%C4%B1can-terliksiz-b7b067232/-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nazl%C4%B1can-terliksiz-b7b067232/-dark-mode-only)
