@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hilal 👋</h1>
+<h1 align="center">Hi, I'm Nazlıcan 👋</h1>
 
 - 🌱 I’m currently learning Android
 - 📫 How to reach me: <br>
