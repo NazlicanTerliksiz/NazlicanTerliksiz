@@ -2,11 +2,12 @@
 
 
 - 🌱 I’m currently learning Android
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
      nazlicanterliksiz@gmail.com
-     linkedin.com/in/nazlicanterliksiz/
+   
 
+### Connect with me:
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=NazlicanTerliksiz&show_icons=true&theme=radical)
-
-
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nazlicanterliksiz/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
