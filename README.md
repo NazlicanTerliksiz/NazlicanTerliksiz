@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nazlıcan 👋</h1>
 
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Kotlin and Android
 - 📫 How to reach me: <br>
      nazlicanterliksiz@gmail.com
    
